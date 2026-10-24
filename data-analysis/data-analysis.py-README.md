@@ -1,0 +1,1 @@
+Beginner-level biological data analysis project using Python and a dataset from NCBI GEO related to breast cancer. I explored biological data files, practiced basic data analysis, and used graphs to present the results.
